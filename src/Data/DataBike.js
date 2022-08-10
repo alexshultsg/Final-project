@@ -31,7 +31,7 @@ const DataBike = [
         price:329.99,
         image:"ChathamBeach",
         name:"Chatham Beach",
-        category:"Beach Cruiser",
+        category:"Beach-Cruiser",
         description:"Chatham is comfortable, easy, and a go-to for a casual ride. Equipped with a step through frame, wide, cushioning tires, and 7 speeds, this beach cruiser will make you want to pedal up and down the coast all day.",
         showMore:false
     },
@@ -40,7 +40,7 @@ const DataBike = [
         price:429.99,
         image:"ChathamPlus",
         name:"Chatham Plus",
-        category:"Beach Cruiser",
+        category:"Beach-Cruiser",
         description:"Chatham Plus is as comfortable and easy as our Chatham, plus premium components: a rust-resistant aluminum step through frame, wider tires, and no-slip grips. This beach cruiser will make you want to pedal up and down the coast all day.",
         showMore:false
     },
@@ -49,7 +49,7 @@ const DataBike = [
         price:399.99,
         image:"BeachCruiser",
         name:"Beach Cruiser",
-        category:"Beach Cruiser",
+        category:"Beach-Cruiser",
         description:"Beach Cruiser is comfortable, easy, and a go-to for a casual ride. Equipped with a step through frame, wide, cushioning tires, and 7 speeds, this beach cruiser will make you want to pedal up and down the coast all day.",
         showMore:false
     },
@@ -58,7 +58,7 @@ const DataBike = [
         price:399.99,
         image:"Sully",
         name:"Sully",
-        category:"Beach Cruiser",
+        category:"Beach-Cruiser",
         description:"We fused our favorite elements of mountain bike culture, beach cruiser comfort, and the sentimentality of youth in Sully. Steel moto-style handlebars, BMX Aluminum threadless stem, knobby tires, a comfortable saddle, and gritty detailing make this klunker unrivaled in style and ride.",
         showMore:false
     },
