@@ -274,7 +274,7 @@ h1{
   margin-left: 0.5 rem;
  }
  .wrapper{
-  margin: 0;
+  
   padding:0;
   border: border-box;
   font-family: Roboto,sans-serif;
@@ -344,11 +344,20 @@ h1{
   border-radius: 5px;
   cursor: pointer;
  }
+ .frontImage{
+  width:400px;
+  margin-top: 30px;
+  height: 250px;
+ }
+ .logo{
+  font-size: 30px;
+ }
 
  @media all and (max-width:400px){
   .header{
-    width:380px;
-    
+    width:370px;
+    margin-left: 1px;
+     
   }
   h1{
     font-size: 30px;
@@ -359,15 +368,17 @@ h1{
   }
   .category{
     font-size: 12px;
-    width:380px;
-    
+    width:370px; 
+  }
+  .frontImage{
+    width:350px;
   }
   .order{
     font-size: 15px;
-    margin-left:18%;
+    
   }
   hr{
-    width:500px;
+    width:380px;
   }
   .cart-container .titles h3{
     font-size: 15px;
@@ -397,7 +408,8 @@ h1{
 
  @media all and(max-width:800px){
   .header{
-    width:740px;
+    width:720px;
+    margin-right: 1px;
   }
   .category{
     font-size: 25px;

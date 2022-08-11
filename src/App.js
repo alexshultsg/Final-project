@@ -6,9 +6,9 @@ import Navbar from './Navbar';
 import { ToastContainer } from "react-toastify";
 import { Route,Routes } from "react-router-dom"
 import Cart from './Cart';
-import AllCategories from './folder/filter/AllCategories';
 import Home from './Home';
 import Checkout from './Checkout';
+import Main from './Main';
 
 
 
@@ -21,13 +21,12 @@ function App() {
       
       <ToastContainer/>
       <Navbar/>
-      <AllCategories/>
       <Routes>
         <Route path = "/cart" element = {<Cart/>}/>
         <Route path = "/home" element = { <Home/>}/>
         <Route path = "/checkout" element = { <Checkout/>}/>
+        <Route path = "/" element = {<Main/>}/>
       </Routes>
-    
     </div>
   );
 }

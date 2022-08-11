@@ -2,7 +2,7 @@ const DataBike = [
     {
         id:1,
         price:399.99,
-        image:"beaumont",
+        image:"Beaumont",
         name:"Beamount",
         category:"City Bike",
         description:"Enhance your commute, errand runs, and free time with Beaumont. This European-styled city bike perfectly balances form and function with a 7-speed drivetrain, smooth shifters, and a sturdy rear rack.",
@@ -254,7 +254,7 @@ const DataBike = [
     {
         id:29,
         price:169.99,
-        image:"trailer",
+        image:"Trailer",
         name:"Bike trailer",
         category:"Accessories",
         description:"Protect your belongings from the elements, so you and your stuff can make it on time rain or shine. Rover Hauler’s interior D-rings allow you to strap in up to 80 lbs of cargo and secure your gear even when the road gets tough.",
@@ -263,7 +263,7 @@ const DataBike = [
     {
         id:30,
         price:169.99,
-        image:"pet",
+        image:"Pet",
         name:"Pet Bike trailer",
         category:"Accessories",
         description:"Now’s your chance to finally (sorta) fulfill that dream. Rover Waggin is specially designed with an internal leash, wide bed, and no-slip floor to safely zip around with your pooch. Holds up to 50 lbs.",
@@ -272,7 +272,7 @@ const DataBike = [
     {
         id:31,
         price:22.95,
-        image:"lock",
+        image:"Lock",
         name:"Bike lock",
         category:"Accessories",
         description:"Protect your bike with a folding chain link lock that’s made with 6mm hardened steel chain links and has 360-degree link rotation. Fold it up for a compact, easy-to-transport size using the included carrier. Includes two wafer-style keys.",
@@ -281,7 +281,7 @@ const DataBike = [
     {
         id:32,
         price:739.99,
-        image:"polygon",
+        image:"Polygon",
         name:"Polygon",
         category:"City Bike",
         description:"A mountain style frame, front Schwinn suspension fork, and 21 speeds make this a versatile bike for riding in varied terrain. Complete with a quick adjust seat post, to quickly adapt to riding conditions and rider height. Hit the trail and have some fun with friends or family. Schwinn makes riding simple easy and fun.",
