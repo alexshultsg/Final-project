@@ -353,68 +353,7 @@ h1{
   font-size: 30px;
  }
 
- @media all and (max-width:400px){
-  .header{
-    width:370px;
-    margin-left: 1px;
-     
-  }
-  h1{
-    font-size: 30px;
-    
-  }
-  h2{
-    font-size: 20px;
-  }
-  .category{
-    font-size: 12px;
-    width:370px; 
-  }
-  .frontImage{
-    width:350px;
-  }
-  .order{
-    font-size: 15px;
-    
-  }
-  hr{
-    width:380px;
-  }
-  .cart-container .titles h3{
-    font-size: 15px;
-  }
-  .product-price{
-    font-size: 12px;
-  }
-  .count{
-    font-size: 12px;
-  }
-  .cart-totalPrice{
-    font-size: 12px;
-  }
-  button{
-    font-size: 12px;
-  }
-  .clear{
-    width:100px;
-    height:20px;
-    font-size: 10px;
-    margin-right: 20px;
-    
-  }
-
- }
-
-
- @media all and(max-width:800px){
-  .header{
-    width:720px;
-    margin-right: 1px;
-  }
-  .category{
-    font-size: 25px;
-  }
- }
+ 
 
 
 
